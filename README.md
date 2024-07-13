@@ -1,4 +1,4 @@
-# Project Name
+ # Project Name
  OCR-on-Images
 # Overview
 Develop an Optical Character Recognition (OCR) algorithm capable of detecting and accurately
